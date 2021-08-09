@@ -1,0 +1,9 @@
+1. npm i  puppeteer  
+2. npm i fs
+3. Randul 4 copiem linku-ul cu site-ul in cauza
+4. Randul 26 in ciclul for cautam selectorul ce raspunde de incarcare mai multor produse
+5. Cautam selectorii din care extragem info
+6. parseNewsWebView(5) -raspunde de click-uri (recomandat 5 - 10 pagini sa incarce) daca mai mult da erroare.
+6. node index.js
+
+ 
